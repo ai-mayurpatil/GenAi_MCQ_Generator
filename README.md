@@ -7,3 +7,7 @@ Create Own Environment
 
 If kernel Error
   - pip install ipykernel
+
+Require Package Install
+ - pip install -r requirements.txt
+ 
